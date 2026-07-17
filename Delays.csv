@@ -1,0 +1,33 @@
+Sl. No.,State/UT,Number of Projects,Number of Delayed Projects,Delay Percentage,Delay Category,Efficiency Score,Delay Ratio,Project Health,Delay Severity Score,Average Delay percentage 
+1,Andaman and Nicobar Islands,2,2,100,High Risk,0,1,Critical,10,50.87382183
+2,Arunachal Pradesh,16,14,87.5,High Risk,12.5,0.875,Critical,8.75,
+3,Mizoram,17,14,82.35294118,High Risk,17.64705882,0.823529412,Critical,8.235294118,
+4,Ladakh,5,4,80,High Risk,20,0.8,Critical,8,Count of critical
+5,Manipur,29,23,79.31034483,High Risk,20.68965517,0.793103448,Critical,7.931034483,6
+6,Sikkim,13,10,76.92307692,High Risk,23.07692308,0.769230769,Critical,7.692307692,
+7,West Bengal,19,14,73.68421053,High Risk,26.31578947,0.736842105,High Risk,7.368421053,Count of High Risk
+8,Gujarat,31,22,70.96774194,High Risk,29.03225806,0.709677419,High Risk,7.096774194,9
+9,Tripura,8,5,62.5,High Risk,37.5,0.625,High Risk,6.25,
+10,Chhattisgarh,20,12,60,High Risk,40,0.6,High Risk,6,
+11,Delhi,5,3,60,High Risk,40,0.6,High Risk,6,Count of Medium Risk 
+12,Maharashtra,101,59,58.41584158,High Risk,41.58415842,0.584158416,High Risk,5.841584158,13
+13,Meghalaya,9,5,55.55555556,High Risk,44.44444444,0.555555556,High Risk,5.555555556,
+14,Uttarakhand,31,16,51.61290323,High Risk,48.38709677,0.516129032,High Risk,5.161290323,
+15,Goa,2,1,50,High Risk,50,0.5,High Risk,5,Count of Low Risk
+16,Odisha,34,16,47.05882353,Medium Risk,52.94117647,0.470588235,Medium Risk,4.705882353,4
+17,Rajasthan,30,14,46.66666667,Medium Risk,53.33333333,0.466666667,Medium Risk,4.666666667,
+18,Karnataka,48,22,45.83333333,Medium Risk,54.16666667,0.458333333,Medium Risk,4.583333333,
+19,Tamil Nadu,40,18,45,Medium Risk,55,0.45,Medium Risk,4.5,
+20,Jammu and Kashmir,38,17,44.73684211,Medium Risk,55.26315789,0.447368421,Medium Risk,4.473684211,
+21,Bihar,44,19,43.18181818,Medium Risk,56.81818182,0.431818182,Medium Risk,4.318181818,
+22,Haryana,22,9,40.90909091,Medium Risk,59.09090909,0.409090909,Medium Risk,4.090909091,
+23,Jharkhand,20,8,40,Medium Risk,60,0.4,Medium Risk,4,
+24,Telangana,30,10,33.33333333,Medium Risk,66.66666667,0.333333333,Medium Risk,3.333333333,
+25,Nagaland,25,8,32,Medium Risk,68,0.32,Medium Risk,3.2,
+26,Uttar Pradesh,78,22,28.20512821,Medium Risk,71.79487179,0.282051282,Medium Risk,2.820512821,
+27,Himachal Pradesh,22,6,27.27272727,Medium Risk,72.72727273,0.272727273,Medium Risk,2.727272727,
+28,Andhra Pradesh,75,19,25.33333333,Medium Risk,74.66666667,0.253333333,Medium Risk,2.533333333,
+29,Kerala,18,4,22.22222222,Low Risk,77.77777778,0.222222222,Low Risk,2.222222222,
+30,Assam,44,9,20.45454545,Low Risk,79.54545455,0.204545455,Low Risk,2.045454545,
+31,Punjab,32,6,18.75,Low Risk,81.25,0.1875,Low Risk,1.875,
+32,Madhya Pradesh,44,8,18.18181818,Low Risk,81.81818182,0.181818182,Low Risk,1.818181818,
